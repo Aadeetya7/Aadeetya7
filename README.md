@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript, Reactjs, Java**
 
-- 🤝 Open To Work **Remote, WFO ,WHO etc.**
+- 🤝 Open To Work **Remote, WFH ,WFO etc.**
 
 - 💬 Ask me about **Front End Technologies.**
 
