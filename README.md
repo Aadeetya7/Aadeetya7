@@ -16,8 +16,6 @@
 
 - 📫 How to reach me **aadityamali9119@gmail.com**
 
-- 📄 Know about my experiences [https://blue-viviyan-31.tiiny.site](https://blue-viviyan-31.tiiny.site)
-
 - ⚡ Fun fact **Tech-Enthusiast , Tech Fusionist**
 
 ### Blogs posts
