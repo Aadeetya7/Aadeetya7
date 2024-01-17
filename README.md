@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya S Mali</h1>
 <h3 align="center">A passionate Web Developer.</h3>
-<p align="right"> <img src="[https://komarev.com/ghpvc/?username=aadeetya7&label=Profile%20views&color=0e75b6&style=flat](https://image.lexica.art/full_webp/0ef826a7-a2ea-4d68-92a8-2b2d937d94ca)" alt="aadeetya7" /> </p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aadeetya7&label=Profile%20views&color=0e75b6&style=flat" alt="aadeetya7" /> </p>
 
